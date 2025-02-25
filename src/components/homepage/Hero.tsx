@@ -36,7 +36,7 @@ const Hero = () => {
               information documents for the AIs knowledge base, and let users
               interact with the bot on{' '}
               <Link
-                href="/register"
+                href="https://telex.im/"
                 className="text-primary"
                 data-testid="get-started"
               >
@@ -45,7 +45,7 @@ const Hero = () => {
             </p>
 
             <Link
-              href="/register"
+              href="https://telex.im/"
               className="rounded bg-primary px-8 py-4 text-background hover:bg-destructive"
               data-testid="get-started"
             >
